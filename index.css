@@ -17,6 +17,21 @@
   /*filter: grayscale(70%);*/
 }
 
+#carruselFotosBotes .carousel-inner img
+{
+  max-height: 80vh;
+  object-fit: cover;
+  /*filter: grayscale(70%);*/
+}
+
+#carruselFotosEnMadera .carousel-inner img
+{
+  max-height: 80vh;
+  object-fit: cover;
+  /*filter: grayscale(70%);*/
+}
+
+
 /*
 #footer
 {
