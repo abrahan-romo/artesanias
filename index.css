@@ -10,6 +10,7 @@
   /*filter: grayscale(70%);*/
 }
 
+/*
 #footer
 {
   background: linear-gradient(90deg,#1c3643,#273b47 25%,#1e5372);
@@ -18,6 +19,14 @@
 #footer a
 {
   color: white;
+}
+*/
+
+footer {
+  background: linear-gradient(90deg, #1c3643, #273b47 25%, #1e5372);
+}
+footer div div div a {
+  color: #FFFFFF;
 }
 
 #mainHeaderId img
